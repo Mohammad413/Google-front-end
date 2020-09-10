@@ -1,0 +1,44 @@
+.image{
+  
+ text-align:center;
+ display:block;
+ margin-top:3%;
+}
+h2{
+    color:red;
+    margin-top:5%;
+}
+a {
+    color: black;
+    margin-right:5%;
+}
+a:hover{
+    color: gray;
+}
+.form1{
+    text-align:center;
+    height: 30px;}
+   
+  
+
+
+.linkimage{
+    text-align:right;
+    margin-top:0%
+}
+.linksearch{
+    text-align:right;
+    margin-right:3%;
+}
+
+.formimage{
+text-align: top-right;
+}
+
+.advancesearch{
+
+text-align:right;
+margin-right:7%;
+margin-top:1%
+
+}
